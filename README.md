@@ -1,5 +1,5 @@
 
-<p>🕋☪️🕌 Muslim</P>
+<p>🕋 Muslim</P>
 <p>👨🏻‍💻 Software developer interested in EdTech and life automation</P>
 <p>👨🏻‍⚕ Fifth-year medical student</P>
 <br>
@@ -25,6 +25,10 @@
 <h1>Purpose in life</h1>
 <br>
 <p>☘️ Aiming and working to end the zionist occupation of Palestine and achieve an Islamic state ☘️</P>
+<br>
+<h1>Reach me out</h1>
+<br>
+<p>✉️ <a href="mailto:omargamal.tech@gmail.com?">omargamal.tech@gmail.com</a></P>
 <!---
 omargoda/omargoda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
