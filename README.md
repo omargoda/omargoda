@@ -1,4 +1,3 @@
-
 <p>🕋 Muslim</P>
 <p>👨🏻‍💻 Software developer interested in EdTech and life automation</P>
 <p>👨🏻‍⚕ Fifth-year medical student</P>
